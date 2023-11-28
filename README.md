@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SachinLaxmikantBadiger
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Web Developement
-- 💞️ I’m looking to collaborate on Skil;s and Technology
+- 💞️ I’m looking to collaborate on Skill's and Technology
 - 📫 How to reach me sachinbadiger301@gmail.com
 
 <!---
